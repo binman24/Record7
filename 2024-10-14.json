@@ -1,0 +1,26 @@
+{
+  "name": "Clyde Simpson",
+  "age": 65,
+  "address": {
+    "street": "Paso Parkway",
+    "city": "Ipuguhbun",
+    "state": "ID",
+    "zip": "24325"
+  },
+  "contact": {
+    "phone": "(963) 297-6579",
+    "servicePhone": "800838938"
+  },
+  "birthday": "1983-07-21T10:22:48.982Z",
+  "ip": "142.50.70.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Safgo pa fuknuob se pabah ce igdi tuwjubos ru aloh sakfolo urimuiv rozi didvi hohjo. Dozos ojewinzi gud renula liduncaj zo himelmuh agi lal pucen ihiuketet iza wi. Biedric luwusjib hihminuj hu udehadi vubvom haguk nij puggif ofculiv mahda su famiwo.",
+    "bio": "Tebi he isues ebteckuc za fojwu wu gap eba zi hekci wum ovajokir nojpihi liputupun maecefo zo. Wowuzefo widmaklo one kobfoksir ebu volwemo topep tipamejo lopo ujuta erjap horokoja zid namos zeobe ja. Zem resorwoj nom ar josic bibsu ase vusjibam wowuso zib tetzi nili jirjip."
+  },
+  "apiKey": "f1316e627a8307377971d1de50b4c7facb1d7ac72804d0dc4ff41d16c8b1a85d",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
