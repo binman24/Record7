@@ -1,0 +1,26 @@
+{
+  "name": "William Wilkerson",
+  "age": 40,
+  "address": {
+    "street": "Fabhi Plaza",
+    "city": "Ujolukeko",
+    "state": "MO",
+    "zip": "92969"
+  },
+  "contact": {
+    "phone": "(981) 895-7496",
+    "servicePhone": "800183998"
+  },
+  "birthday": "1971-08-05T01:55:00.888Z",
+  "ip": "200.70.11.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi bumalumo apoluv osufiz uzi sa navfur dun orinija hipumoga ela vafaw ec. Tuproc no edogaowu etoveb pena magum ze il ruutzu ve re edi pi rekepu aliideat jud lovuk. Sapugko te poz hiano pil ahdaemu hakwapezu fumosve wi wo ed ocokapel jedsor hazma sugekub hoj fa gi.",
+    "bio": "Tudaftug rozsa tovde ilvu wido imdeva lofibo zew zolito jusvado bu zelsowrej hu bawrem se. Miinma ibifulsin rah jijesuc rivi luvin netov vegfipris tugat wupajvi huprowus ho zete. Piver pievoosi wudabci ozom kuiliag vilvoj ijeerawet mo pizel duhzena zakbuj jufbe. Gedcif gefmuhup misla badwinuh kom nectat meleffuv girdoini le wopjun be fajo labjijiso homicvu laz. Zasurom keg nus viude vap ojaro rasa ov oguwefa nuarunah manu jo rad. Okevu ficuvajo tikabu ni othumko jeko muh wajwonzaz bega jo loza ja uc of le kop ibowu. Virezdaf ojudef unlak nin pu hujihma epgagso bigun fah kewdiema roh utuvile demivicu sat corjuh biha uf kes."
+  },
+  "apiKey": "2509983fb4253f6b536b4f9c83b56735969e6018692279445ebe04e3324f8372",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
