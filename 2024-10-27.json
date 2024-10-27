@@ -1,0 +1,26 @@
+{
+  "name": "Catherine King",
+  "age": 60,
+  "address": {
+    "street": "Eljo Street",
+    "city": "Zesukve",
+    "state": "AL",
+    "zip": "22822"
+  },
+  "contact": {
+    "phone": "(973) 839-8536",
+    "servicePhone": "800517741"
+  },
+  "birthday": "1994-01-14T01:23:06.103Z",
+  "ip": "85.82.233.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu kul kommu gob no jellevu evo eznencur tiboj zo hucsa guhu ohaapa sacta nugte. Hakug egpi wo ziphi roecami vazu pon do rateguof woof hu zej or lolbab ciepa esomilbid ruveez. Fursukti dor ilcomu dopurtuz ro cire gajmo raf ifla idemegu awkokad vevo winhuwuj av.",
+    "bio": "Eme cifulzi ecjul fi hid nodorfi vosot masta ufiro so udura kifbovtu ak ehbovmij agwim. Tawoc vi zidsi ramhij kufedmez wuheg haj ecgeh ifo awfez lopfu hivno domvad. Gi focfivaf wa ijetagan obcobti kobba pasohu wizuv ze neg pofa cu sepihe. Ozejun vu runzugmoj paj esaip pol teh gavfamar nosnain boktok fotgo cejisfik roslit vojcegfup. Pezag ca wuzvodzu jodisohem gol ed tipot sacdaar ekusaek ubiisege irzohe zeubohi. Akami dez wagpub sic maub gukfuta kohzujisi fohzatone ukato cod sak acfa nilede toin lo tizubtec kezucma. Sucap vemba givabju joibocut ez cetofdel kepce wabnajze iru fo dazan gun koceb cearo zoz vopnu."
+  },
+  "apiKey": "d4cef70b18d0fcf6bfac9191ed2089f7248ad540e674c477e621777cec518aa6",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
