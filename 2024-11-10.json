@@ -1,0 +1,26 @@
+{
+  "name": "Nora Paul",
+  "age": 58,
+  "address": {
+    "street": "Amuven Highway",
+    "city": "Firegco",
+    "state": "WA",
+    "zip": "52151"
+  },
+  "contact": {
+    "phone": "(517) 552-7566",
+    "servicePhone": "800183273"
+  },
+  "birthday": "1998-12-26T09:32:51.170Z",
+  "ip": "121.228.0.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Wir sactiuf kataco ditudap te igituk luzve eso ulesevpe laivdas isvidpiw himmiadi ti. Rak pazigdun va do mohupmoj ihkohto bulku ewudunuv vecun cepti rinadafa uzareijo ew atopudgal hanfero salme zi. Agekivsab nomo wasupme rebov koid pi hobtef hedpus ekmenag kugna gegji tow ebicu tezo ricro. Tisis sepa guris mol ocozo sijlefzib mitkuvi nopwimic wav omi kuirhud waz ulav nagoclu mamajbos gulaccev.",
+    "bio": "Foofijoz si hahbez esivizvo to loc uhfukpi medgikpaz medmigca becuvgov uwi di. Ihazi nub nug cit rajduhpim gaswi sanuluh ka fopabkuj wimolle dalpu luditaw cete. Jiwegsi gahbujtad lih ogjo ber repe bikuf gacfu ak cokban hat faopge rit puvod."
+  },
+  "apiKey": "42917ac732edaf1067167e81de7a499398c9434e80ccd28af5a512673fb41bd7",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
