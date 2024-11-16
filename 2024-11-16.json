@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Campbell",
+  "age": 42,
+  "address": {
+    "street": "Kirsoh Plaza",
+    "city": "Ocoophuh",
+    "state": "MI",
+    "zip": "43137"
+  },
+  "contact": {
+    "phone": "(276) 543-7084",
+    "servicePhone": "800226669"
+  },
+  "birthday": "2004-03-22T12:51:40.780Z",
+  "ip": "96.21.28.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Ev we asebu bevevoaj orzanvub geb ezisilvo zes ehu dudbil bi oze ro irkerici du mu cofhaz ac. Duvoopi sarhara imevade imfuda bacegvus tihod ihe paszosi el ova wehehuiv focbofte. Loprohcek ci anomijot melepejam canlo zirahne webilbuv sare efewe bocovnaz cufasit pivaju ma pavunovo. Samoce ozizikopu onetaciw afi wes ko pu go sevaij ace mefadusu laclazu tubiwul refelose.",
+    "bio": "Avo tizip jup gumvu rahgascag fikhavza epa wovuome kaz mah etical zuibo wizomoka si kejjutap. Sekoge zuwus lilecu oleku gep moh guzegva ruv lutelin ofa cumot faf toknunan berage cotapkik noc ivoken otucep. Giju pibfoza dum mezhelmu bug rovvefaz zu zudfekcu towpo kihessa sanu buhec."
+  },
+  "apiKey": "09b9140553ba9e049b872be7669727115d240f9bf8d445fb7cb632ac82bfc474",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
