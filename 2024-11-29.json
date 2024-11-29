@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Bates",
+  "age": 64,
+  "address": {
+    "street": "Cioba Extension",
+    "city": "Ugamingi",
+    "state": "UT",
+    "zip": "09549"
+  },
+  "contact": {
+    "phone": "(542) 773-3726",
+    "servicePhone": "800234271"
+  },
+  "birthday": "1981-10-14T11:53:02.882Z",
+  "ip": "151.91.79.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Cocma disih vozjik sedosu piriz jadu in rufat nekkuoc betluc kagkedu zej eniol ir. Pezgam ip on fuhooda risonubu ka zik efewuke cez kanmehze folpa becholbu iwwama wab za hewa rahe. Olmob zac uhku gu wega puzecho roppid ra hiw wit zuf sebos.",
+    "bio": "Fa irefij vowfa zokme nam peokbuh pizid nepisus mopiaca tualeer jehozbu wimovi. Izoiji unzicefu miiwabuw necbob mif uglez cegib hotneh pinnu waodbuh hera nuj uhuwez wupozaw geffa. Hutdi ijemevba do dohmobip rorwuper nuisdu oruam girlu reduzajub fesaste hulag zu dah. Lam ne vodogbij irha sa ke pumkinweb kewrow zudoak jezu cowse denus subukalu pinas so."
+  },
+  "apiKey": "faa25f2aec1a67c6c9cb30aa855e9537c9399157d6df362528a815bd2f2988c9",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
