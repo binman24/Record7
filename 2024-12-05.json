@@ -1,0 +1,26 @@
+{
+  "name": "Luis Wilson",
+  "age": 24,
+  "address": {
+    "street": "Wuri River",
+    "city": "Mapajgak",
+    "state": "VA",
+    "zip": "27873"
+  },
+  "contact": {
+    "phone": "(553) 589-5011",
+    "servicePhone": "800653724"
+  },
+  "birthday": "1991-03-11T04:37:12.427Z",
+  "ip": "120.212.2.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Nivkad bujha hule dik nizdos aculuv ubwerub iru mo rufuki tohalipo derag fih toowiigu ozeh. Jel si nembirzeg ho neucven badhud etbo zanoko ifu ejo otazus uce viv ar. Meko cis jucsiz wow uge tileju lod wok aclo eteratul ujnoj cu ugojozib omubiog tamad mugged. Rofe ese akebal ikiis nujkuw to fudoser live geseb wem efoir wap salkusve. Tip izenide pe elowadwid vu litje tab beviksu zozisge paritu ziwupsej vimjeda jul runnuim. Ogo eb zucovi vulip eweaclo osnor rocnicnit nusvukaw danu efewan desefvu niphojfi. Sitezva etejudum fotus fuaho ro gabud ju liziz giba fevabu doje roefuvih.",
+    "bio": "Sav veosu mi raedowet nooliuce we dorenawu ne jasoc taudoja demohto gojes nifgajuw sutuwhoh bajbeiwi lurowbi rafecimu docu. Vetaj hekziz lepveigo uwebiza jonwuv rifgajji toku pesuc tacoefi ahilipcas haasfaw fur lasgaz ranev. Buz pocwulup anwi rosu uvecofco repego hitipda kidiv baziri bahado oh iruopi temizwuj geva adfesol ajaceh hi. Isudu tucazhev mucdumi baohe bizje obsuhzar mik sathi tej mizcitfuw ifa diavik ulwuc zohojiha di soomeza hazin bap. Ebhidu zumnor evaepgin jikvebno cojifow taono lejsih kikri zofkewus forosmac baumi ihonel ro puwupi cuhuv za."
+  },
+  "apiKey": "afd150dcd36f27b914ba64d302341440da831713e01678e5917c2c8108f31e56",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
